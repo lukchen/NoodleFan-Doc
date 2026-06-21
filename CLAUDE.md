@@ -86,7 +86,9 @@ All business docs live in Notion under **NoodleFan粉面王运营**.
 
 A local web app for modeling revenue, costs, and net profit across delivery platforms.
 
-- **Location:** `C:\NoodleFan\ProfitSimulator\` (not tracked in this repo)
+- **Live URL:** https://lukchen.github.io/noodlefan-profit-simulator/
+- **GitHub repo:** https://github.com/lukchen/noodlefan-profit-simulator
+- **Local:** `C:\NoodleFan\ProfitSimulator\` (not tracked in this doc repo)
 - **Stack:** Vanilla HTML/CSS/JS + Chart.js, with i18n (bilingual CN/EN)
 - **Also linked in Notion** under the 盈利计算器 sub-page
 - Models platform fees (DoorDash, Uber Eats, Fantuan), food cost %, and projected net profit
