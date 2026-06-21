@@ -77,6 +77,17 @@ Sub-pages:
 
 ---
 
+## Profit Simulator
+
+A local web app for modeling revenue, costs, and net profit across delivery platforms.
+
+- **Location:** `C:\NoodleFan\ProfitSimulator\` (not tracked in this repo)
+- **Stack:** Vanilla HTML/CSS/JS + Chart.js, with i18n (bilingual CN/EN)
+- **Also linked in Notion** under the 盈利计算器 sub-page
+- Models platform fees (DoorDash, Uber Eats, Fantuan), food cost %, and projected net profit
+
+---
+
 ## Website Project
 
 **Goal:** Build an official NoodleFan website that combines:
