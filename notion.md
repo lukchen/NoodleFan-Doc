@@ -1,5 +1,7 @@
 # NoodleFan 粉面王 — Notion 工作区索引
 
+Notion 是合伙人的协作与查阅平台，展示业务结果和进展。技术细节和开发规划留在本 repo，不同步到 Notion。
+
 所有业务文档存放在 Notion 工作区 **NoodleFan粉面王运营** 下。
 
 ---

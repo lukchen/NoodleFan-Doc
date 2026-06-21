@@ -1,5 +1,9 @@
 # NoodleFan 粉面王 — Claude 协作入口
 
+This repo is Claude's working context for development — technical details, architecture decisions, and planning notes. It is NOT for partners to read.
+
+**Partners use Notion** (`NoodleFan粉面王运营`) as their collaboration and result-viewing space. See [notion.md](notion.md) for page IDs.
+
 This is the index file. Read this first, then follow links to relevant topic files.
 
 ---
