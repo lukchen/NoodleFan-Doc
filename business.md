@@ -4,7 +4,7 @@
 
 ## 业务简介
 
-**NoodleFan 粉面王**是一家专注外卖的中式粉面店，在美国筹备开业，主打 DoorDash、Uber Eats、番茄外卖（Fantuan）三个平台。
+**NoodleFan 粉面王**是一家专注外卖的中式粉面店，在美国筹备开业，主打 DoorDash、Uber Eats、饭团外卖（Fantuan）三个平台。
 
 **当前状态：** 筹备中，菜单基本确定，尚未正式营业。
 
@@ -45,7 +45,7 @@
 
 - DoorDash
 - Uber Eats
-- 番茄外卖（Fantuan）— 面向华人社区的重要渠道
+- 饭团外卖（Fantuan）— 面向华人社区的重要渠道
 
 ---
 
