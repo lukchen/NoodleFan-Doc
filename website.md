@@ -1,5 +1,11 @@
 # NoodleFan 粉面王 — 网站规划
 
+## 仓库
+
+- **GitHub Repo：** https://github.com/lukchen/NoodleFan-Website
+- **线上地址：** https://lukchen.github.io/NoodleFan-Website（GitHub Pages，待上线）
+- **域名：** 暂用 GitHub Pages 免费域名，正式运营后购买自定义域名并绑定
+
 ---
 
 ## 长期目标
