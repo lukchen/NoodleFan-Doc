@@ -55,15 +55,20 @@ Roles define the primary executor, not exclusive ownership. Everyone has the rig
 
 ## Notion Workspace
 
-All business docs live in Notion under **NoodleFan粉面王运营** (parent page).
+All business docs live in Notion under **NoodleFan粉面王运营**.
 
-Sub-pages:
-- **职能分工** — duty distribution table with callout note on flexibility
-- **盈利计算器** — profit calculator (external link: Google Sheets)
-- **开业路线图** — pre-opening roadmap (Phases 1–5)
-- **账本** — simple ledger (startup expenses + monthly cash flow), with note to upgrade to QuickBooks/Wave post-opening
+- **Root page:** https://app.notion.com/p/NoodleFan-150e1e412f7080458fb1e9851e1d565c
+  - Page ID: `150e1e41-2f70-8045-8fb1-e9851e1d565c`
 
-**Notion integration token:** stored in Claude Desktop MCP config. Use `mcp__notion__*` tools to read/write Notion directly.
+| Sub-page | Page ID | Notes |
+|----------|---------|-------|
+| 职能分工 | `386e1e41-2f70-818a-9186-d5d93ba7b944` | Duty distribution table; callout note on role flexibility |
+| 盈利计算器 | `386e1e41-2f70-8182-93b9-f2663b427fb6` | Links out to Google Sheets profit simulator |
+| 开业路线图 | `386e1e41-2f70-8193-8f30-d783a3508716` | Pre-opening roadmap, Phases 1–5 |
+| 账本 | `386e1e41-2f70-819c-8efe-f9fc238b4e04` | Simple ledger; note to upgrade to QuickBooks/Wave post-opening |
+| 菜单制作 (TBD) | `386e1e41-2f70-80ab-8cab-d7e0f13da8cb` | Menu production, in progress |
+
+**Notion integration token:** stored in Claude Desktop MCP config (`claude_desktop_config.json`). Use `mcp__notion__*` tools to read/write Notion directly.
 
 ---
 
